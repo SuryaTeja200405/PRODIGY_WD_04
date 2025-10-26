@@ -35,43 +35,7 @@ Copy code
 
 ---
 
-## ⚙️ How to Run the Project Locally
-Follow these simple steps to view or edit the project on your computer:
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/SuryaTeja200405/PRODIGY_WD_04.git
-Navigate to the project folder
-
-bash
-Copy code
-cd PRODIGY_WD_04
-Open the project
-
-Option 1: Double-click the index.html file to open it in your browser.
-
-Option 2 (Recommended): Use VS Code Live Server Extension for better testing.
-
-Install “Live Server” in VS Code
-
-Right-click index.html → Open with Live Server
-
-🌍 Deployment
-You can host this project easily on:
-
-GitHub Pages
-
-Netlify
-
-Vercel
-
-To deploy on GitHub Pages:
-
-Push your code to the main branch.
-
-Go to Settings → Pages → Source → Deploy from Branch → / (root).
-
-Save, and your website will be live within minutes!
+View Here :- 
 
 🧑‍💻 Author
 👋 Surya Teja Yellaboyina
